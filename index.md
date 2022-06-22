@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Makar Kungurov
+## React-native dev
+## Professional summary
+Student with background in web, android development and system administaration. Development is a constant of my life. Exels working in a team environment. Strong critical analysis and problem solving. Time managment and workflow optimisation enthusiast.
 
-You can use the [editor on GitHub](https://github.com/t1g3pf4c3/my-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Hard skills
+- **Web:** HTML5, CSS3, ES6/ES2015, AJAX, JQuery, JSON, Socket.io
+- **JS Libraries:** Node.js, React-native, Redux, NativeBase, Bootstrap
+- **IDE's and Tools:** Nvim, Dev.tools, VSCode  
+- **Database:** PL/SQL(oracle), MySQL, Oracle APEX  
+- **OS:** Linux, Android  
+- **Others:** Python, C#, Bash, ZSH, PHP, GITm Visual editing
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Soft skills
+- Good learner 
+- Self-confident
+- Passionate for good programming
+- Teamwork player
+- Creative
 
-### Markdown
+## Languages
+- Russian
+- English
+## Education
+- Last year of **Bachelor of "Applied math and cs"**  
+- FreeCodeCamp courses
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Experience
+- **2 years** in enthusiast web development
+- **1 year** in developing UIs and apps in React-native
+- **3 months** in developing "Dubna university journal platform"
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/t1g3pf4c3/my-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Github
+https://github.com/t1g3pf4c3
